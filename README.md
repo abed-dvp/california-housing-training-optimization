@@ -24,4 +24,4 @@ Regression target: MedHouseVal
 
 ## Status
 
-Step 4 — Batch, Mini-Batch, and Stochastic Gradient Descent
+Step 5 — Regression Loss Functions
