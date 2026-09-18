@@ -24,4 +24,4 @@ Regression target: MedHouseVal
 
 ## Status
 
-Step 3 — Scaling and OLS Geometry
+Step 4 — Batch, Mini-Batch, and Stochastic Gradient Descent
