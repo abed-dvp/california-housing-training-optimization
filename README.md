@@ -24,4 +24,4 @@ Regression target: MedHouseVal
 
 ## Status
 
-Step 5 — Regression Loss Functions
+Step 6 — Classification Loss Functions
