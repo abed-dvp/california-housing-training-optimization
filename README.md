@@ -24,4 +24,4 @@ Regression target: MedHouseVal
 
 ## Status
 
-Step 6 — Classification Loss Functions
+Step 7 — Enhanced Gradient Descent and Second-Order Methods
