@@ -24,4 +24,4 @@ Regression target: MedHouseVal
 
 ## Status
 
-Step 2 — Manual Gradient Descent
+Step 3 — Scaling and OLS Geometry
