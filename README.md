@@ -24,4 +24,4 @@ Regression target: MedHouseVal
 
 ## Status
 
-Step 1 — Behind `.fit()`
+Step 2 — Manual Gradient Descent
